@@ -1,10 +1,10 @@
-
-body{
-background-color: #66bfbf;
-text-align: center;
-
-
-
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+  background-color:#66bfbf;
+  text-align:center;
 }
 .topcontainer{
   padding: 100px ;
