@@ -1,0 +1,28 @@
+
+body{
+background-color: #66bfbf;
+text-align: center;
+
+
+
+}
+.topcontainer{
+  padding: 100px ;
+  margin:100px 0 100px 0;
+  border:solid white;
+  background-color: white;
+  border-radius: 10px;
+}
+
+p{
+  line-height: 2
+}
+h3{
+  color: black;
+  margin:auto;
+  padding: 20px;
+}
+.h1{
+
+font-family: sans-serif;
+}
